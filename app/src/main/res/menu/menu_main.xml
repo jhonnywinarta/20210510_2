@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jhonny.a20210510_2.MainActivity">
+    <item
+        android:id="@+id/web"
+        android:title="Teacher Zi Qing Website">
+    </item>
+    <item
+        android:id="@+id/tel"
+        android:title="Call Teacher">
+    </item>
+    <item
+        android:id="@+id/email"
+        android:title="Send Mail to Teacher">
+    </item>
+    <item
+        android:id="@+id/search"
+        android:title="Search 楊子青 Zi Qing Yang">
+    </item>
+    <item
+        android:id="@+id/map"
+        android:title="Show GPS Coordiante and Map">
+    </item>
+
+</menu>
